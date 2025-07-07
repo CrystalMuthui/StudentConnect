@@ -8,6 +8,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.studentconnect.R
 import com.google.firebase.auth.FirebaseAuth
+import com.example.studentconnect.activities.MainActivity
 
 class LoginActivity : AppCompatActivity() {
     private lateinit var auth: FirebaseAuth
